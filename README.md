@@ -9,8 +9,8 @@ Microserviços: Arquitetura onde uma aplicação é dividida em pequenos serviç
 # Service Discovery (Descoberta de Serviços): 
 Processo pelo qual os microserviços encontram uns aos outros na rede. Ele garante que os serviços possam se comunicar dinamicamente, sem depender de configurações estáticas.
 
-Service Register (Registro de Serviços):
-# Um repositório onde os microserviços se registram com suas informações de rede, como endereços IP e portas, para que possam ser descobertos por outros serviços.
+# Service Register (Registro de Serviços):
+Um repositório onde os microserviços se registram com suas informações de rede, como endereços IP e portas, para que possam ser descobertos por outros serviços.
 
 # Ferramentas Utilizadas
 
